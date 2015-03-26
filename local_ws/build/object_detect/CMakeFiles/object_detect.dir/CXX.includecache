@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anushk/local_ws/src/object_detect/src/object_detect.cpp
+sstream
+-
+string
+-
+vector
+-
+iostream
+-
+string
+-
+stdio.h
+-
+opencv2/core/core.hpp
+/home/anushk/local_ws/src/object_detect/src/opencv2/core/core.hpp
+opencv/highgui.h
+-
+opencv2/opencv.hpp
+-
+opencv/cv.h
+-
+

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "object_detect")
+set(object_detect_MAINTAINER "anushk <anushk@todo.todo>")
+set(object_detect_DEPRECATED "")
+set(object_detect_VERSION "0.0.0")
+set(object_detect_BUILD_DEPENDS "roscpp" "std_msgs")
+set(object_detect_RUN_DEPENDS "roscpp" "std_msgs")
+set(object_detect_BUILDTOOL_DEPENDS "catkin")
